@@ -47,5 +47,8 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NFCReaderUsageDescription</key>
+	<string>TODO: You’re required to provide this key if your app uses APIs that access the NFC hardware.</string>
+	<key>com.apple.developer.nfc.readersession.felica.systemcodes</key>
 </dict>
 </plist>
